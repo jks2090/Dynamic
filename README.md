@@ -8,3 +8,6 @@ The planner uses dynamic population using arrays to populate rows with buttons, 
 ## End result
 
 <img src="workSchedule.png"> </img>
+
+## Webpage
+Official link to page is https://jks2090.github.io/Planner/
